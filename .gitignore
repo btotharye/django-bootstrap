@@ -1,0 +1,5 @@
+*.pyc
+*.egg-info
+nerdypython/settings/local.py
+nerdypython/settings/local/*
+docs/_build
